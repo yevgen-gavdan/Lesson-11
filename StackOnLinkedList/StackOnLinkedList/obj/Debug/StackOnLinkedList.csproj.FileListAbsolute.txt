@@ -1,0 +1,6 @@
+D:\C# projects\StackOnLinkedList\StackOnLinkedList\bin\Debug\StackOnLinkedList.exe.config
+D:\C# projects\StackOnLinkedList\StackOnLinkedList\obj\Debug\StackOnLinkedList.csprojResolveAssemblyReference.cache
+D:\C# projects\StackOnLinkedList\StackOnLinkedList\bin\Debug\StackOnLinkedList.exe
+D:\C# projects\StackOnLinkedList\StackOnLinkedList\bin\Debug\StackOnLinkedList.pdb
+D:\C# projects\StackOnLinkedList\StackOnLinkedList\obj\Debug\StackOnLinkedList.exe
+D:\C# projects\StackOnLinkedList\StackOnLinkedList\obj\Debug\StackOnLinkedList.pdb
