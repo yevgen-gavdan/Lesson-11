@@ -13,7 +13,7 @@ namespace StackOnLinkedList
             Buffer<TestObject> stack = new MyStack<TestObject>();
             for (int i = 0; i < 100; i++)
 			{
-                stack.Enqueue(new TestObject(i));
+                stack.Push(new TestObject(i));
 			}
 
             for (int i = 0; i < 100; i++)
@@ -23,7 +23,7 @@ namespace StackOnLinkedList
 
             for (int i = 100; i > 0; i--)
             {
-                Console.WriteLine(stack.Dequeue().ID);
+                Console.WriteLine(stack.Pop().ID);
             }
         }
     }
@@ -57,14 +57,14 @@ namespace StackOnLinkedList
         }
         abstract protected bool IsFull();
         abstract protected bool IsEmpty();
-        abstract public bool Enqueue(T ValueToSave);
-        abstract public T Dequeue();
+        abstract public bool Push(T ValueToSave);
+        abstract public T Pop();
     }
 
     public class MyStack<T> : Buffer<T> where T: class
     {
         public MyStack() : base() { }
-        public override bool Enqueue(T ValueToSave)
+        public override bool Push(T ValueToSave)
         {
             if (!IsFull())
             {
@@ -74,7 +74,7 @@ namespace StackOnLinkedList
             }
             return false;
         }
-        public override T Dequeue()
+        public override T Pop()
         {
             if (!IsEmpty())
             {

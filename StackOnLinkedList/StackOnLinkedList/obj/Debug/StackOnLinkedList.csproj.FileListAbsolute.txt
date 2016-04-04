@@ -4,3 +4,9 @@ D:\C# projects\StackOnLinkedList\StackOnLinkedList\bin\Debug\StackOnLinkedList.e
 D:\C# projects\StackOnLinkedList\StackOnLinkedList\bin\Debug\StackOnLinkedList.pdb
 D:\C# projects\StackOnLinkedList\StackOnLinkedList\obj\Debug\StackOnLinkedList.exe
 D:\C# projects\StackOnLinkedList\StackOnLinkedList\obj\Debug\StackOnLinkedList.pdb
+D:\GitHub\StackOnLinkedList\StackOnLinkedList\bin\Debug\StackOnLinkedList.exe.config
+D:\GitHub\StackOnLinkedList\StackOnLinkedList\obj\Debug\StackOnLinkedList.exe
+D:\GitHub\StackOnLinkedList\StackOnLinkedList\obj\Debug\StackOnLinkedList.pdb
+D:\GitHub\StackOnLinkedList\StackOnLinkedList\bin\Debug\StackOnLinkedList.exe
+D:\GitHub\StackOnLinkedList\StackOnLinkedList\bin\Debug\StackOnLinkedList.pdb
+D:\GitHub\StackOnLinkedList\StackOnLinkedList\obj\Debug\StackOnLinkedList.csprojResolveAssemblyReference.cache
