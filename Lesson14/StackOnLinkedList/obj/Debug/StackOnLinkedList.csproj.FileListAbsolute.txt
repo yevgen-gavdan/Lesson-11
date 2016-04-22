@@ -1,0 +1,7 @@
+D:\C# projects\Lesson14\StackOnLinkedList\bin\Debug\StackOnLinkedList.dll
+D:\C# projects\Lesson14\StackOnLinkedList\bin\Debug\StackOnLinkedList.pdb
+D:\C# projects\Lesson14\StackOnLinkedList\obj\Debug\StackOnLinkedList.csprojResolveAssemblyReference.cache
+D:\C# projects\Lesson14\StackOnLinkedList\obj\Debug\StackOnLinkedList.dll
+D:\C# projects\Lesson14\StackOnLinkedList\obj\Debug\StackOnLinkedList.pdb
+D:\C# projects\Lesson14\StackOnLinkedList\bin\Debug\MyCommonInterfaces.dll
+D:\C# projects\Lesson14\StackOnLinkedList\bin\Debug\MyCommonInterfaces.pdb

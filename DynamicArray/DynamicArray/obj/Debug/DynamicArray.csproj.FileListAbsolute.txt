@@ -4,3 +4,6 @@ D:\C# projects\DynamicArray\DynamicArray\bin\Debug\DynamicArray.pdb
 D:\C# projects\DynamicArray\DynamicArray\obj\Debug\DynamicArray.csprojResolveAssemblyReference.cache
 D:\C# projects\DynamicArray\DynamicArray\obj\Debug\DynamicArray.exe
 D:\C# projects\DynamicArray\DynamicArray\obj\Debug\DynamicArray.pdb
+D:\GitHub\DynamicArray\DynamicArray\bin\Debug\DynamicArray.exe.config
+D:\GitHub\DynamicArray\DynamicArray\obj\Debug\DynamicArray.exe
+D:\GitHub\DynamicArray\DynamicArray\obj\Debug\DynamicArray.pdb

@@ -1,0 +1,15 @@
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\bin\Debug\TestCommonInterfacesGUI.exe.config
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\bin\Debug\TestCommonInterfacesGUI.exe
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\bin\Debug\TestCommonInterfacesGUI.pdb
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\obj\Debug\TestCommonInterfacesGUI.csprojResolveAssemblyReference.cache
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\obj\Debug\TestCommonInterfacesGUI.Form1.resources
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\obj\Debug\TestCommonInterfacesGUI.Properties.Resources.resources
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\obj\Debug\TestCommonInterfacesGUI.csproj.GenerateResource.Cache
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\obj\Debug\TestCommonInterfacesGUI.exe
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\obj\Debug\TestCommonInterfacesGUI.pdb
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\bin\Debug\StackOnDynamicArray.dll
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\bin\Debug\StackOnLinkedList.dll
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\bin\Debug\StackOnDynamicArray.pdb
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\bin\Debug\StackOnLinkedList.pdb
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\bin\Debug\MyCommonInterfaces.dll
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\bin\Debug\MyCommonInterfaces.pdb

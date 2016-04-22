@@ -1,0 +1,7 @@
+D:\C# projects\Lesson14\StackOnDynamicArray\bin\Release\StackOnDynamicArray.dll
+D:\C# projects\Lesson14\StackOnDynamicArray\bin\Release\StackOnDynamicArray.pdb
+D:\C# projects\Lesson14\StackOnDynamicArray\bin\Release\MyCommonInterfaces.dll
+D:\C# projects\Lesson14\StackOnDynamicArray\bin\Release\MyCommonInterfaces.pdb
+D:\C# projects\Lesson14\StackOnDynamicArray\obj\Release\StackOnDynamicArray.csprojResolveAssemblyReference.cache
+D:\C# projects\Lesson14\StackOnDynamicArray\obj\Release\StackOnDynamicArray.dll
+D:\C# projects\Lesson14\StackOnDynamicArray\obj\Release\StackOnDynamicArray.pdb

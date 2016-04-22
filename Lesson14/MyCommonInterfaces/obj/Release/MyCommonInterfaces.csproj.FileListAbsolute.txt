@@ -1,0 +1,5 @@
+D:\C# projects\Lesson14\MyCommonInterfaces\bin\Release\MyCommonInterfaces.dll.config
+D:\C# projects\Lesson14\MyCommonInterfaces\bin\Release\MyCommonInterfaces.dll
+D:\C# projects\Lesson14\MyCommonInterfaces\bin\Release\MyCommonInterfaces.pdb
+D:\C# projects\Lesson14\MyCommonInterfaces\obj\Release\MyCommonInterfaces.dll
+D:\C# projects\Lesson14\MyCommonInterfaces\obj\Release\MyCommonInterfaces.pdb

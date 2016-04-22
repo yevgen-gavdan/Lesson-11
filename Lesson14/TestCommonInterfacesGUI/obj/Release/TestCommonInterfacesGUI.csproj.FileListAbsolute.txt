@@ -1,0 +1,15 @@
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\bin\Release\TestCommonInterfacesGUI.exe.config
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\bin\Release\TestCommonInterfacesGUI.exe
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\bin\Release\TestCommonInterfacesGUI.pdb
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\bin\Release\MyCommonInterfaces.dll
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\bin\Release\StackOnDynamicArray.dll
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\bin\Release\StackOnLinkedList.dll
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\bin\Release\MyCommonInterfaces.pdb
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\bin\Release\StackOnDynamicArray.pdb
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\bin\Release\StackOnLinkedList.pdb
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\obj\Release\TestCommonInterfacesGUI.csprojResolveAssemblyReference.cache
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\obj\Release\TestCommonInterfacesGUI.Form1.resources
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\obj\Release\TestCommonInterfacesGUI.Properties.Resources.resources
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\obj\Release\TestCommonInterfacesGUI.csproj.GenerateResource.Cache
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\obj\Release\TestCommonInterfacesGUI.exe
+D:\C# projects\Lesson14\TestCommonInterfacesGUI\obj\Release\TestCommonInterfacesGUI.pdb
