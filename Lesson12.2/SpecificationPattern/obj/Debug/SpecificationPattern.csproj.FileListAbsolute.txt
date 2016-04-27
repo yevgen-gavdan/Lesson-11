@@ -1,0 +1,4 @@
+C:\C#\Projects\Lesson12.1\SpecificationPattern\bin\Debug\SpecificationPattern.dll
+C:\C#\Projects\Lesson12.1\SpecificationPattern\bin\Debug\SpecificationPattern.pdb
+C:\C#\Projects\Lesson12.1\SpecificationPattern\obj\Debug\SpecificationPattern.dll
+C:\C#\Projects\Lesson12.1\SpecificationPattern\obj\Debug\SpecificationPattern.pdb

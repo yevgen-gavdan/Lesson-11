@@ -1,0 +1,20 @@
+D:\C# projects\Lesson12\Lesson12\bin\Debug\Lesson12.exe.config
+D:\C# projects\Lesson12\Lesson12\bin\Debug\Lesson12.exe
+D:\C# projects\Lesson12\Lesson12\bin\Debug\Lesson12.pdb
+D:\C# projects\Lesson12\Lesson12\obj\Debug\Lesson12.csprojResolveAssemblyReference.cache
+D:\C# projects\Lesson12\Lesson12\obj\Debug\Lesson12.exe
+D:\C# projects\Lesson12\Lesson12\obj\Debug\Lesson12.pdb
+C:\C#\Projects\Lesson12\Lesson12\bin\Debug\Lesson12.exe.config
+C:\C#\Projects\Lesson12\Lesson12\obj\Debug\Lesson12.exe
+C:\C#\Projects\Lesson12\Lesson12\obj\Debug\Lesson12.pdb
+C:\C#\Projects\Lesson12\Lesson12\obj\Debug\Lesson12.csprojResolveAssemblyReference.cache
+C:\C#\Projects\Lesson12\Lesson12\bin\Debug\Lesson12.exe
+C:\C#\Projects\Lesson12\Lesson12\bin\Debug\Lesson12.pdb
+C:\C#\Projects\Lesson12.1\Lesson12\bin\Debug\Lesson12.exe.config
+C:\C#\Projects\Lesson12.1\Lesson12\obj\Debug\Lesson12.exe
+C:\C#\Projects\Lesson12.1\Lesson12\obj\Debug\Lesson12.pdb
+C:\C#\Projects\Lesson12.1\Lesson12\bin\Debug\Lesson12.exe
+C:\C#\Projects\Lesson12.1\Lesson12\bin\Debug\Lesson12.pdb
+C:\C#\Projects\Lesson12.1\Lesson12\obj\Debug\Lesson12.csprojResolveAssemblyReference.cache
+C:\C#\Projects\Lesson12.1\Lesson12\bin\Debug\SpecificationPattern.dll
+C:\C#\Projects\Lesson12.1\Lesson12\bin\Debug\SpecificationPattern.pdb
