@@ -1,0 +1,17 @@
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\bin\Release\Model\MediaDB.mdf
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\bin\Release\Model\MediaDB_log.ldf
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\bin\Release\CustomMediaLibrary.exe.config
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\bin\Release\CustomMediaLibrary.exe
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\bin\Release\CustomMediaLibrary.pdb
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\bin\Release\Interop.WMPLib.dll
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\bin\Release\AxInterop.WMPLib.dll
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\obj\Release\Interop.WMPLib.dll
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\obj\Release\AxInterop.WMPLib.dll
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\obj\Release\CustomMediaLibrary.csproj.ResolveComReference.cache
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\obj\Release\CustomMediaLibrary.Player.Player.resources
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\obj\Release\CustomMediaLibrary.MainMediaLibraryFormView.resources
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\obj\Release\CustomMediaLibrary.SettingsFormView.resources
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\obj\Release\CustomMediaLibrary.Properties.Resources.resources
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\obj\Release\CustomMediaLibrary.csproj.GenerateResource.Cache
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\obj\Release\CustomMediaLibrary.exe
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\obj\Release\CustomMediaLibrary.pdb

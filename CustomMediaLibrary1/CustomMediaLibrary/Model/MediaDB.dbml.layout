@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="MediaDB">
+  <DataContextMoniker Name="/MediaDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="6ac2d605-9c91-43e7-9dbe-9876164e08ce" absoluteBounds="6, 3.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/MediaDBDataContext/AudioToPlaylist" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b8f5b4d3-ff43-452c-8872-0289c5f14a34" absoluteBounds="6.015, 4.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b90abc16-fcd9-4885-97c5-fd6d187a36e3" absoluteBounds="2.25, 6.125, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/MediaDBDataContext/Playlist" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c4781a1d-3bf3-46e4-aa14-19f9fad263be" absoluteBounds="2.265, 6.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.25 : 6.72199625651042); (7 : 6.72199625651042); (7 : 5.1362939453125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MediaDBDataContext/Playlist/Playlist_AudioToPlaylist" />
+      <nodes>
+        <classShapeMoniker Id="b90abc16-fcd9-4885-97c5-fd6d187a36e3" />
+        <classShapeMoniker Id="6ac2d605-9c91-43e7-9dbe-9876164e08ce" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="0a99b818-8392-4a89-809f-31b184236848" absoluteBounds="5, 0.5, 2, 1.3862939453125">
+      <DataClassMoniker Name="/MediaDBDataContext/MLConfiguration" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7d11a7df-4397-4d1c-bdd3-48c8d3544918" absoluteBounds="5.015, 0.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="81b1c5d8-9a1a-4e59-a82e-ddb3d6c936cc" absoluteBounds="5.125, 2.125, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/MediaDBDataContext/MediaLibraryLocation" />
+      <nestedChildShapes>
+        <elementListCompartment Id="12652a92-5018-47f4-aa4c-f0218ee9dde0" absoluteBounds="5.14, 2.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="189e06ad-d48f-408b-b695-d32bf6bf4cf2" absoluteBounds="1.625, 0.5, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/MediaDBDataContext/FileFilter" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ad68fc70-bf9f-46a3-82e6-7c74619eb94e" absoluteBounds="1.6400000000000001, 0.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="62b393a3-0dde-4024-95c0-3c3e08e33e63" absoluteBounds="1.875, 2.875, 2, 1.9631982421875">
+      <DataClassMoniker Name="/MediaDBDataContext/Audio" />
+      <nestedChildShapes>
+        <elementListCompartment Id="22f81862-5cdf-4925-9c15-d64fb18daa7a" absoluteBounds="1.8900000000000001, 3.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

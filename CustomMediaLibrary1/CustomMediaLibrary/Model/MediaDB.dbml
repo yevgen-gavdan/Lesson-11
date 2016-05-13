@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="MediaDB" Class="MediaDBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\Model\MediaDB.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="CustomMediaLibrary.Properties.Settings" SettingsPropertyName="MediaDBConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.AudioToPlaylist" Member="AudioToPlaylists">
+    <Type Name="AudioToPlaylist">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="PlaylistID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="AudioID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Playlist_AudioToPlaylist" Member="Playlist" ThisKey="PlaylistID" OtherKey="Id" Type="Playlist" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Playlists" Member="Playlists">
+    <Type Name="Playlist">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Association Name="Playlist_AudioToPlaylist" Member="AudioToPlaylists" ThisKey="Id" OtherKey="PlaylistID" Type="AudioToPlaylist" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MLConfiguration" Member="MLConfigurations">
+    <Type Name="MLConfiguration">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ConfigurationName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ConfigurationValue" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MediaLibraryLocations" Member="MediaLibraryLocations">
+    <Type Name="MediaLibraryLocation">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Path" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FileFilters" Member="FileFilters">
+    <Type Name="FileFilter">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Filter" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Audio" Member="Audios">
+    <Type Name="Audio">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="FileName" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="FilePath" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="FileType" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="IsDeletedFromDB" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

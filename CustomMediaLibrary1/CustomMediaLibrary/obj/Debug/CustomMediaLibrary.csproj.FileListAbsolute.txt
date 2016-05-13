@@ -1,0 +1,27 @@
+D:\C# projects\CustomMediaLibrary\CustomMediaLibrary\bin\Debug\CustomMediaLibrary.exe.config
+D:\C# projects\CustomMediaLibrary\CustomMediaLibrary\bin\Debug\CustomMediaLibrary.exe
+D:\C# projects\CustomMediaLibrary\CustomMediaLibrary\bin\Debug\CustomMediaLibrary.pdb
+D:\C# projects\CustomMediaLibrary\CustomMediaLibrary\obj\Debug\CustomMediaLibrary.Form1.resources
+D:\C# projects\CustomMediaLibrary\CustomMediaLibrary\obj\Debug\CustomMediaLibrary.Properties.Resources.resources
+D:\C# projects\CustomMediaLibrary\CustomMediaLibrary\obj\Debug\CustomMediaLibrary.csproj.GenerateResource.Cache
+D:\C# projects\CustomMediaLibrary\CustomMediaLibrary\obj\Debug\CustomMediaLibrary.exe
+D:\C# projects\CustomMediaLibrary\CustomMediaLibrary\obj\Debug\CustomMediaLibrary.pdb
+D:\C# projects\CustomMediaLibrary\CustomMediaLibrary\obj\Debug\CustomMediaLibrary.SettingsForm.resources
+D:\C# projects\CustomMediaLibrary\CustomMediaLibrary\obj\Debug\CustomMediaLibrary.csprojResolveAssemblyReference.cache
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\bin\Debug\CustomMediaLibrary.exe.config
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\obj\Debug\CustomMediaLibrary.exe
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\obj\Debug\CustomMediaLibrary.pdb
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\bin\Debug\CustomMediaLibrary.exe
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\bin\Debug\CustomMediaLibrary.pdb
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\obj\Debug\CustomMediaLibrary.Properties.Resources.resources
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\obj\Debug\CustomMediaLibrary.csproj.GenerateResource.Cache
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\obj\Debug\CustomMediaLibrary.MainMediaLibraryFormView.resources
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\obj\Debug\CustomMediaLibrary.SettingsFormView.resources
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\bin\Debug\Model\MediaDB.mdf
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\bin\Debug\Model\MediaDB_log.ldf
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\bin\Debug\Interop.WMPLib.dll
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\bin\Debug\AxInterop.WMPLib.dll
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\obj\Debug\Interop.WMPLib.dll
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\obj\Debug\AxInterop.WMPLib.dll
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\obj\Debug\CustomMediaLibrary.csproj.ResolveComReference.cache
+C:\C#\Projects\CustomMediaLibrary\CustomMediaLibrary\obj\Debug\CustomMediaLibrary.Player.Player.resources
